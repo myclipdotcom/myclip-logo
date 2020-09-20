@@ -17,3 +17,18 @@ Hex: #00FFFF
 RGB: (0, 255, 255)
 CMYK: 1, 0, 0, 0
 
+## T-Shirts
+Avery Template Number: 
+`#3279`
+`#3302`
+
+1. Order Avery's templates or call a local printing service (i.e. FedEx Office, Staples)
+2. Download Avery's template file (.pdf) in the `t-shirts` folder to your USB or computer.
+
+For printer:
+
+3. Select the correct `Paper Size` and be sure `Scale` is set to `Custom` and `100%`.
+4. For laser printers, select `Print using system dialog` and use printing `Properties` or `Preferences` to change the `Paper` or `Media Type` to `Labels` or `Cardstock`.
+
+5. Iron to t-shirt.
+
