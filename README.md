@@ -19,8 +19,9 @@ CMYK: 1, 0, 0, 0
 
 ## T-Shirts
 Avery Template Number: 
-`#3279`
-`#3302`
+`#3279` - Dark T-Shirt Transfer (8 1/2" x 11")
+`#3302` - Light T-Shirt Transfer (8 1/2" x 11")
+`#8938` - Light T-Shirt Transfer (8 1/2" x 11")
 
 1. Order Avery's templates or call a local printing service (i.e. FedEx Office, Staples)
 2. Download Avery's template file (.pdf) in the `t-shirts` folder to your USB or computer.
